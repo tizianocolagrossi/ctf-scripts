@@ -71,6 +71,6 @@ IP Spoofing is a problem without an easy solution, since it’s inherent to the 
 Matt Tanase is President of Qaddisin. He and his company provide nationwide security consulting services. Additionally, he produces The Security Blog, a daily weblog dedicated to network security.
 
 # LINK
+
 [original post](https://community.broadcom.com/symantecenterprise/communities/community-home/librarydocuments/viewdocument?DocumentKey=9d18fc06-b229-4c4a-8ca5-7386d0870c01&CommunityKey=1ecf5f55-9545-44d6-b0f4-4e4a7f5f5e68&tab=librarydocuments)
-[I'm an inline-style link](https://www.google.com)
-[I'm an inline-style link](https://www.google.com)
+
