@@ -2,6 +2,8 @@ from math import gcd
 from Crypto.PublicKey import RSA
 from Crypto.Signature import PKCS1_v1_5
 
+### è da sistemare firmo alla fine invece di decifrare
+
 def egcd(a, b):
     if a == 0:
         return (b, 0, 1)
